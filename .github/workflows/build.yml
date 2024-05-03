@@ -12,7 +12,7 @@ jobs:
     #  - Debian12
     # MrHermeling is Marks basement machine
     # - MrHermeling
-    # demo is on my Windows laptop
+    # demo is another Linux runner in my laptop VM
      - demo
     env:
       CODESONAR: /opt/codesonar/codesonar/bin/codesonar
