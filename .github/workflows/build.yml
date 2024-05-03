@@ -13,7 +13,7 @@ jobs:
     # MrHermeling is Marks basement machine
     # - MrHermeling
     # demo is on my Windows laptop
-    # - demo
+     - demo
     env:
       CODESONAR: /opt/codesonar/codesonar/bin/codesonar
       # JAVA_HOME needed to execute Kotlin Detekt tool
